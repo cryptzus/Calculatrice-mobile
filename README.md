@@ -1,0 +1,17 @@
+# Calculatrice-mobile 
+
+                               PROGRAMMATION MOBILE 
+
+          THEME DU PROJET : IMPLEMAENTATION D'UNE CALCULATRICE SUR UN MOBILE 
+
+                        NOMS ET MATRICULES DES MEMBRES DU GROUPE
+
+             MONTHE NZEAGNI ERIC STEPHANE  					CM-UDS-18SCI1244
+
+             BIKE NZEAGNI CEDRIC 								    CM-UDS-19SCI1514
+
+             EPANTI AWOUM FRANC JUNIOR 						  CM-UDS-18SCI2657
+
+             BASSI FOUKTA TIERRY							    	CM-UDS-19SCI1497
+
+             HADJOCK FONKOU SOULAMITHE					  	CM-UDS-19SCI1730
